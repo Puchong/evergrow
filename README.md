@@ -1,1 +1,1 @@
-# evergrow Readme
+# Evergrow Firmware
